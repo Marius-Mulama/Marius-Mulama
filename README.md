@@ -72,13 +72,7 @@ Some Few Things I can work with.
 
 </p>
 
-[![MArius' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marius-Mulama&theme=react-dark)](https://github.com/okonueugene/github-readme-activity-graph)
-
-
-
-![](https://komarev.com/ghpvc/?username=okonueugene&color=green)
-
-
+[![MArius' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marius-Mulama&theme=react-dark)](https://github.com/Marius-Mulama/github-readme-activity-graph)
 
 
 
