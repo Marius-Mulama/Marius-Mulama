@@ -30,20 +30,6 @@ Some Few Things I can work with.
 - #### 🛠 Tools
   ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=plastic)&nbsp;![Composer](https://img.shields.io/badge/-Composer-chocolate?logo=composer&style=plastic)&nbsp;![IntelliJIdea](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=IntelliJ%20IDEA&style=plastic)&nbsp;![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=plastic&logo=Intellij-idea&logoColor=orange)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)&nbsp;![Virtual Box](https://img.shields.io/badge/-VirtualBox-black?logo=virtualbox&style=plastic)
 
-<details> 
-<summary><b> ⚙️ &nbsp;GitHub Analytics</b></summary>    
-<br>
-
-<!--START_SECTION:waka-->
-
-```text No activity tracked
-
-```
-
-<!--END_SECTION:waka-->
-
-</details>
-
 <details>    
 <summary><b> :pushpin: &nbsp;I want to learn </b></summary>
 
@@ -74,4 +60,15 @@ Some Few Things I can work with.
 
 </p>
 
+<details> 
+<summary><b> ⚙️ &nbsp;GitHub Analytics</b></summary>    
+<br>
+<!--START_SECTION:waka-->
+
 [![Marius' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marius-Mulama&bg_color=ffffff&color=121212&line=1dd384&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--END_SECTION:waka-->
+
+</details>
+
+
