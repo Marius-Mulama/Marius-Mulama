@@ -75,7 +75,3 @@ Some Few Things I can work with.
 </p>
 
 [![Marius' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marius-Mulama&bg_color=ffffff&color=121212&line=1dd384&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-https://www.linkedin.com/in/marius-mulama
