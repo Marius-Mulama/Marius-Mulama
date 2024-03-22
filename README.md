@@ -2,7 +2,7 @@
 
 ## <center> I'm a **Backend Developer :octocat: and a Machine Learning :penguin: Enthusiast** </center>
 
-- 💻 I’m currently specializing in <u> **Backend Software Development**</u> and currently learning <u>**Android**📱.</u>
+- 💻 I’m currently specializing in <u> **Backend Software Development**</u> and currently learning <u>**Data Science**📱.</u>
 
 <!-- - 📖 The cycle continues:
 
@@ -47,7 +47,9 @@ Some Few Things I can work with.
 <details>    
 <summary><b> :pushpin: &nbsp;I want to learn </b></summary>
 
-- [x] Android Application Programing
+- [ ] NLP
+- [ ]  Foundational Models 
+- [ ] Data Visualization
 - [x] Spring Boot
 
 </details>    
@@ -72,7 +74,7 @@ Some Few Things I can work with.
 
 </p>
 
-[![MArius' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marius-Mulama&theme=react-dark)](https://github.com/Marius-Mulama/github-readme-activity-graph)
+[![Marius' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marius-Mulama&bg_color=ffffff&color=121212&line=1dd384&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
